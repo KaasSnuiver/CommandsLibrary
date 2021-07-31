@@ -1,0 +1,5 @@
+name: CommandsLibrary
+version: ${project.version}
+main: com.kaassnuiver.commandslibrary.CommandsLibrary
+authors: [ Niqck ]
+description: A plugin allowing developer to register and use commands by just using annotations
